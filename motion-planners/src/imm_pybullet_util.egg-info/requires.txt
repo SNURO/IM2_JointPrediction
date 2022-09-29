@@ -1,0 +1,5 @@
+numpy>=1.19.0
+simple_parsing
+
+[:python_version < "3.7"]
+dataclasses
